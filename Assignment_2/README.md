@@ -23,10 +23,10 @@ python task4.py
 ## Program Outputs
 
 - Task 3 (Even/Odd) output:
-  ![Task3 Output] (Outputs/task3.png)
+  ![Task3 Output](Outputs/task3.png)
 
 - Task 4 (Sum of first 50 numbers) output:
-  ![Task4 Output] (Outputs/task4.png)
+  ![Task4 Output](Outputs/task4.png)
 
 ## Notes
 
